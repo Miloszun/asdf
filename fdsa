@@ -1,0 +1,4 @@
+git clone https://github.com/PyvesB/AdvancedAchievements.git
+cd AdvancedAchievements
+mvn clean install
+
